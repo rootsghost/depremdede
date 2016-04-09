@@ -1,7 +1,7 @@
 depremdede
 ==========
 
-This is return recent eartquake in Turkey.
+This is return recent earthquake in Turkey.
 
 Usage
 ==========
